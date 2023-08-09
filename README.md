@@ -6,7 +6,7 @@ Please connect with me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/) 
 
-Here are some ideas to get you started:
+A few things about me:
 
 - 🌱 I’m currently learning Javascript, HTML, and CSS
 - 💬 Ask me about being a front end student at Turing School of Software & Design
