@@ -1,6 +1,8 @@
+ 
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/AHochworter/AHochworter/assets/125393235/4ab13907-a355-4437-b52c-267d014a76b8)
+
 ### Hi! I'm Ann 🌻  
 ### <div align="center"></div>  
-  
 
 My transition to software development is a natural progression fueled by my interest in addressing challenges and refining processes, particularly where technology is instrumental in finding solutions. A defining moment in my career path occurred during my tenure in a proposal and marketing role at a civil engineering firm. There, I identified a critical gap: the absence of a structured process for leveraging past project insights in responding to new 'requests for proposals'. Motivated to address this, I developed a 'project' database using MS Access. This tool cataloged completed projects, complete with images, summaries, and essential project details. This innovation significantly streamlined the process, enabling engineers to efficiently review past projects and efficiently integrate relevant ones into their proposals.
  
