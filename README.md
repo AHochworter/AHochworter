@@ -1,5 +1,5 @@
  
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/AHochworter/AHochworter/assets/125393235/4ab13907-a355-4437-b52c-267d014a76b8)
+![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/AHochworter/AHochworter/assets/125393235/e4a9ae88-82fe-4f59-9a51-5d995e247e93)
 
 ### Hi! I'm Ann 🌻  
 ### <div align="center"></div>  
@@ -11,7 +11,7 @@ My transition to software development is a natural progression fueled by my inte
 A few things about me:  
   
 
-- 🌱 I'm currently learning Javascript, HTML, and CSS
+- 🌱 I'm currently learning Javascript, React, TypeScript, HTML, and CSS
 
 - 💬 Ask me about being a front end student at Turing School of Software & Design
 
