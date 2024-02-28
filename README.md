@@ -20,8 +20,6 @@ A few things about me:
 
 - 😄 Pronouns: she/her
 
-- 🪴 I'm an anvid landscaper.  I love being out in the sunshine pulling weeds, deadheading my flowers and planting new ones!
-
 - ⚡ Fun fact: I love to dance!
 
 <div align="center">  
