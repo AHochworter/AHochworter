@@ -1,5 +1,6 @@
  
-![White Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/AHochworter/AHochworter/assets/125393235/e4a9ae88-82fe-4f59-9a51-5d995e247e93)
+![Profile LinkedIn Banner](https://github.com/AHochworter/AHochworter/assets/125393235/dbb3990c-2886-4ca7-b702-8e57d4d95ac0)
+
 
 ### Hi! I'm Ann 🌻  
 ### <div align="center"></div>  
