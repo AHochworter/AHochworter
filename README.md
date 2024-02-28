@@ -14,13 +14,13 @@ A few things about me:
 
 - 🌱 I'm currently learning Javascript, React, TypeScript, HTML, and CSS
 
-- 🪴 I'm an anvid landscaper.  I love being out in the sunshine pulling weeds, deadheading my flowers and planting new ones!
-
 - 💬 Ask me about being a front end student at Turing School of Software & Design
 
 - 📫 How to reach me: ann.hochworter@gmail.com
 
 - 😄 Pronouns: she/her
+
+- 🪴 I'm an anvid landscaper.  I love being out in the sunshine pulling weeds, deadheading my flowers and planting new ones!
 
 - ⚡ Fun fact: I love to dance!
 
