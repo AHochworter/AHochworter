@@ -57,9 +57,20 @@ A few things about me:
 <div align="center"> 
 🥇 <a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a> - Winner of Turing School of Software and Design 2401 Demo Comp
 </div>
+
+## GitHub Statistics:
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AHochworter&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="39%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHochworter&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
  
   
-## Connect with me  
+## Connect with me:
 <a href="https://linkedin.com/in/annhochworter" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
