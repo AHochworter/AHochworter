@@ -61,11 +61,11 @@ A few things about me:
 ## GitHub Statistics:
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AHochworter&theme=radical&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AHochworter&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="39%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHochworter&theme=radical&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHochworter&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
  
