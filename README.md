@@ -22,6 +22,20 @@ A few things about me:
 
 - ⚡ Fun fact: I love to dance!
 
+<div align="center">
+ 
+## Currently Working On:
+<br><a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a></br>
+<br> JavaScript30 </br>
+<br> Udemy Angular Introduction </br>
+<br><strong>Today I Learned:
+<a href=https://github.com/AHochworter/today-i-learned>today-i-learned</a></br>
+<br></br> 
+</div>
+
+
+
+
 <div align="center">  
   
 ## Technologies: 
