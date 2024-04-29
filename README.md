@@ -137,10 +137,13 @@ A few things about me:
  <a href="mailto:ann.hochworter@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-[![Turing Logo](/Users/annhochworter/Pictures/Turing_logo.png){:height="200px" width="400px"}](https://terminal.turing.edu/profiles/2026)
+ 
+[<img src="Turing_logo.png" alt="Turing Logo" width="50" height="50">](https://terminal.turing.edu/profiles/2026)
 
-[<img src="/Users/annhochworter/Pictures/Turing_logo.png" alt="Turing Logo" width="400" height="200">](https://terminal.turing.edu/profiles/2026)
+
+
+
+
 
 
 
