@@ -11,7 +11,7 @@ My journey into software development is driven by a passion for tackling challen
 A few things about me:  
   
 - 💬 Ask me about being a front end student at Turing School of Software & Design
-- 
+  
 - 🌱 AT Turing I studied Javascript, React, TypeScript, HTML, and CSS
 
 - 📫 How to reach me: ann.hochworter@gmail.com
