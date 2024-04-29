@@ -12,7 +12,7 @@ A few things about me:
   
 - 💬 Ask me about being a front end student at Turing School of Software & Design
   
-- 🌱 AT Turing I studied Javascript, React, TypeScript, HTML, and CSS
+- 🌱 At Turing I studied Javascript, React, TypeScript, HTML, and CSS
 
 - 📫 How to reach me: ann.hochworter@gmail.com
 
