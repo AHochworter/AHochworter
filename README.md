@@ -27,10 +27,32 @@ A few things about me:
 ## Currently Working On:
 <br><a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a></br>
 
-
-<br> Frontend Mentor Challenges - Tip Calculator </br>
+<br> Frontend Mentor Challenges </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![tip-calculator](https://github.com/AHochworter/AHochworter/assets/125393235/1c717771-7174-4d86-a54b-3750ba64260e)
+<details>
+<summary>
+🧮 Tip Calculator
+</summary>
+<div align="center"> 
+  
+![tip-calculator](https://github.com/AHochworter/AHochworter/assets/125393235/a6a4afe7-8206-41d4-8219-0133a6bffada)
+
+
+</div>
+</details>
+
+<details>
+<summary>
+🤔 FAQs Accordion
+</summary>
+<div align="center"> 
+ 
+![Screenshot 2024-04-29 at 2 17 53 PM](https://github.com/AHochworter/AHochworter/assets/125393235/232431d9-7d50-4da2-9620-ecb7b6dd8740)
+
+
+</div>
+</details>
+
 
 
 <br> Dashboard In A Day - CraigH </br>
