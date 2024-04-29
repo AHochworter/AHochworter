@@ -27,11 +27,11 @@ A few things about me:
 ## Currently Working On:
 <br><a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a></br>
 
-<br> JavaScript30 </br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br> Frontend Mentor FAQs Accordion </br>
+<br> Frontend Mentor Challenges - Tip Calculator </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![tip-calculator](https://github.com/AHochworter/AHochworter/assets/125393235/1c717771-7174-4d86-a54b-3750ba64260e)
+
 
 <br> Dashboard In A Day - CraigH </br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
