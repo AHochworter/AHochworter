@@ -5,7 +5,7 @@
 ### Hi! I'm Ann 🌻  
 ### <div align="center"></div>  
 
-My journey into software development is driven by a passion for tackling challenges and improving processes, particularly through the use of technology. While working at a civil engineering firm, I identified a critical gap in leveraging past project insights for new proposals. To address this, I developed a project database using MS Access, which significantly streamlined the process and enabled engineers to efficiently integrate relevant information into their proposals. Now, I'm seeking opportunities in both frontend development and Power BI, combining my skills in creating engaging user interfaces with my ability to generate insightful data visualizations.
+My journey into software development is a story of following my heart and embracing the challenges that come my way, always leading me to new ways of problem-solving and process improvement, especially where technology is involved. During my time at a civil engineering firm, I stumbled upon a puzzle: how to better leverage past project insights for new proposals. Driven by a desire to make a difference, I embarked on a mission to develop a project database using MS Access. This journey was about building a bridge between past project experience and future potential work. My hope was to make it easier for my colleagues to showcase their work quickly and efficiently based on the RFP they were responding to. Now, as I explore opportunities in both frontend development and Power BI, I'm excited to bring my warmth for creating intuitive user interfaces and my passion for crafting insightful data visualizations to new projects and challenges.
  
 
 A few things about me:  
