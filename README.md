@@ -29,6 +29,23 @@ A few things about me:
 
 <br> Frontend Mentor Challenges </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<details>
+<summary>
+🤔 FAQs Accordion
+</summary>
+<div align="center"> 
+ 
+### Web View
+<img width="1382" alt="Screenshot 2024-03-26 at 12 19 53 PM" src="https://github.com/daltobello/faq-accordion/assets/130494366/64083400-399b-4662-be34-eb6e1691ffc2">
+
+### Mobile View
+<img width="378" alt="Screenshot 2024-03-26 at 12 19 02 PM" src="https://github.com/daltobello/faq-accordion/assets/130494366/62f0d59b-24f5-4df9-b680-d2ebf82f5f8e">
+ 
+</div>
+</details>
+
+
 <details>
 <summary>
 🧮 Tip Calculator
@@ -41,22 +58,20 @@ A few things about me:
 </div>
 </details>
 
-<details>
-<summary>
-🤔 FAQs Accordion
-</summary>
-<div align="center"> 
- 
-![Screenshot 2024-04-29 at 2 17 53 PM](https://github.com/AHochworter/AHochworter/assets/125393235/232431d9-7d50-4da2-9620-ecb7b6dd8740)
-
-
-</div>
-</details>
-
-
 
 <br> Dashboard In A Day - CraigH </br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<details>
+<summary>
+📊 DIAD Manufacturing Example
+</summary>
+<div align="center"> 
+ 
+### Dashboard-in-action
+![diad-manufacturing-example](https://github.com/AHochworter/AHochworter/assets/125393235/3dc2bc57-b7f6-4798-92fa-7d4a5ee2f104)
+ 
+</div>
+</details>
 
 <br><strong>Today I Learned:
 <a href=https://github.com/AHochworter/today-i-learned>today-i-learned</a></br>
