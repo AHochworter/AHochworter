@@ -25,6 +25,23 @@ A few things about me:
 ## Currently Working On:
 <br><a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a></br>
 
+<details>
+<summary>
+Iterating Slowly To Accomadate Multiple-Markets
+</summary>
+<div align="center"> 
+ 
+### Reset Customer Default_Zipcode
+![MND-Default-Zip_Change](https://github.com/AHochworter/AHochworter/assets/125393235/3aa5cf4b-e3bb-4182-b480-d6209a719ca0)
+
+
+### Load Customer Default Map on Sign In
+
+ 
+</div>
+</details>
+
+
 <br> Frontend Mentor Challenges </br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
